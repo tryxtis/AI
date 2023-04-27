@@ -47,17 +47,20 @@ To collect this data, the system could use a variety of techniques such as web s
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+1.Data Privacy and Security: As the system would be collecting and processing user data, it's essential to ensure that the data is collected, stored, and processed securely and in compliance with data privacy regulations. The system would need to provide transparency and control to users over their data.
+
+2. Data Quality and Bias: The quality of the recommendations made by the system relies heavily on the quality and accuracy of the data used to train the AI model. Data bias could result in inaccurate recommendations, leading to lower customer satisfaction. It's essential to ensure that the data is representative of the user population and that the AI model is trained on unbiased data.
+
+3. System Scalability: The system would need to be able to handle large amounts of data, handle a significant number of user requests, and scale up as the user base grows. It's essential to ensure that the system is designed with scalability in mind.
+
+4. Integration with E-commerce Websites: The system would need to integrate with various e-commerce websites to access product data and provide real-time price comparisons. Integration challenges could arise, such as compatibility issues, changes to e-commerce websites' APIs, and varying data formats.
+
+5. Natural Language Processing: The system would need to understand and interpret user queries accurately, even with variations in language and phrasing. Developing a robust natural language processing (NLP) system could be challenging, requiring extensive training data and ongoing refinement.
+
+6. User Adoption: The success of the system depends on user adoption and satisfaction. It's essential to design the system with a user-friendly interface, provide clear value propositions, and ensure the recommendations are accurate and personalized to the user's needs.
+
+Addressing these challenges would require a multi-disciplinary approach, involving experts in data privacy, AI development, system design, and user experience.
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
-
-
-## Acknowledgments
-
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
+I have not created this product, but to be able to acctually make this I would need alot of help since I don't fully have the knowledge to create this. But this is still something I would think would be fun to acctually create.
